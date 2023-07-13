@@ -10,6 +10,9 @@ import { RiVisaLine, RiMastercardLine } from "react-icons/ri";
 function Footer() {
   return (
     <>
+    <h1 className="bg-red-700">umar </h1>
+    <h1 className="bg-red-700">umar </h1>
+    <h1 className="bg-red-700">umar </h1>
       <div className="justify-center  flex flex-wrap  gap-10 lg:gap-56 mb-2 mt-8 ">
         <div className="">
           <span className="text-lg  font-serif">CUSTOMER CARE</span>
